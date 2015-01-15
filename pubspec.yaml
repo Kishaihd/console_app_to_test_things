@@ -1,0 +1,5 @@
+name: console_app_to_test_things
+description: A sample command-line application
+dependencies:
+  Character_Gen_DD5:
+    path: ../../My Documents/GitHub/Character_Gen_DD5
